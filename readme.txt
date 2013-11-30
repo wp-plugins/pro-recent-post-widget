@@ -14,6 +14,11 @@ Pro Recent Post Widget plugin.You have choice to specific category recent post s
 
 Pro Recent Post Widget plugin.You have choice to specific category recent post show.exclude any category,exclude any post
 
+**Features**
+
+1. You have choice to specific category recent post show.
+2. exclude any post.
+3. exclude any category.
 
 == Installation ==
 
@@ -22,11 +27,6 @@ Pro Recent Post Widget plugin.You have choice to specific category recent post s
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Go Appearance => widgets section  see **Pro Recent Posts**
 
-**Features**
-
-1. You have choice to specific category recent post show.
-2. exclude any post.
-3. exclude any category.
 
 == Frequently Asked Questions ==
 
