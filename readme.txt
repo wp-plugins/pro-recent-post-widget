@@ -1,9 +1,9 @@
 === Pro Recent Post Widget ===
 Contributors: shambhu patnaik
-Donate link: http://aynsoft.com/
+Donate link: http://socialcms.wordpress.com/
 Tags: pro recent post widget,widget,custom recent post,advanced recent posts widget,exclude post,exclude post in recent post widget,exclude category
 Requires at least: 3.0.1
-Tested up to: 3.7.1
+Tested up to: 3.9.1
 Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -19,6 +19,9 @@ Pro Recent Post Widget plugin.You have choice to specific category recent post s
 1. You have choice to specific category recent post show.
 2. exclude any post.
 3. exclude any category.
+
+More Detail : http://socialcms.wordpress.com/
+
 
 == Installation ==
 
