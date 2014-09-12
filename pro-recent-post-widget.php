@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Pro Recent Post Widget
-Plugin URI: http://aynsoft.com/
+Plugin URI: http://socialcms.wordpress.com/
 Description: Pro Recent Post Widget plugin.You have choice to specific category recent post show
 Version: 1.1
 Author: Shambhu Prasad Patnaik
-Author URI:http://aynsoft.com/
+Author URI:http://socialcms.wordpress.com/
 */
 class Pro_Recent_Post_Widget extends WP_Widget {
 

@@ -3,7 +3,7 @@ Contributors: shambhu patnaik
 Donate link: http://socialcms.wordpress.com/
 Tags: pro recent post widget,widget,custom recent post,advanced recent posts widget,exclude post,exclude post in recent post widget,exclude category
 Requires at least: 3.0.1
-Tested up to: 3.9.1
+Tested up to: 4.0
 Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
